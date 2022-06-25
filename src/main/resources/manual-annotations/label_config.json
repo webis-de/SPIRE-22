@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "text": "Title-Reformulation",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#8BC34A",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 2,
+    "text": "Title-Specialization",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#8BC34A",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 3,
+    "text": "Title-Generalization",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#8BC34A",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 4,
+    "text": "Title-Identical",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#8BC34A",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 5,
+    "text": "Different Topic",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#F44336",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 6,
+    "text": "Variant-Generalization",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#FFEB3B",
+    "textColor": "#ffffff"
+  },
+
+  {
+    "id": 7,
+    "text": "Variant-Reformulation",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#FFEB3B",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 8,
+    "text": "Variant-Specialization",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#FFEB3B",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 9,
+    "text": "Variant-Identical",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#FFEB3B",
+    "textColor": "#ffffff"
+  }
+]

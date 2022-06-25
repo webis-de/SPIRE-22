@@ -1,0 +1,10 @@
+**/.ipynb_checkpoints/
+**/__pycache__/
+**/.classpath
+**/.project
+**/.settings/
+**/target/
+src/main/jupyter/tf-idf-similarities-for-docs-of-paraphrased-queries*.jsonl
+src/main/jupyter/pytorch_model.bin
+src/main/jupyter/Untitled*.ipynb
+src/main/jupyter/delete-me*.ipynb

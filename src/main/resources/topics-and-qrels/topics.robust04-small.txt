@@ -1,0 +1,112 @@
+<num> Number: 350
+<title> Health and Computer Terminals 
+
+<desc> Description: 
+Is it hazardous to the health of individuals to	work
+with computer terminals on a daily basis?
+ 
+<narr> Narrative: 
+Relevant documents would contain any information that 
+expands on any physical disorder/problems that may be
+associated with the daily working with computer terminals.
+Such things as carpel tunnel, cataracts, and fatigue have 
+been said to be associated, but how widespread are these or
+other problems and what is being done to alleviate any
+health problems.
+ 
+</top>
+
+
+<top>
+
+<num> Number: 353 
+<title> Antarctica exploration
+
+<desc> Description: 
+Identify systematic explorations and scientific investigations
+of Antarctica, current or planned.
+
+<narr> Narrative: 
+Documents discussing the following issues are relevant:
+
+ - systematic explorations and scientific investigations of Antarctica
+   (e.g., seismology, ionospheric physics, possible economic development)
+ - other research currently conducted or planned for the future
+ - banning of mineral mining 
+
+Documents discussing tourism are non-relevant.  Documents discussing 
+"disrupting scientific experiments" are non-relevant unless a specific
+experiment is identified.
+ 
+</top>
+
+
+<top>
+
+<num> Number: 360
+<title> drug legalization benefits 
+
+<desc> Description: 
+What are the benefits, if any, of drug legalization?
+
+<narr> Narrative: 
+Relevant documents may contain information on perceived
+benefits of drug legalization, such as crime reduction, 
+improved treatment using monies which otherwise would 
+have gone for crime fighting, reduced drug addiction, 
+and increased governmental income.  Documents that 
+discuss drug legalization and whether legalization
+is or is not perceived to be beneficial are relevant.
+ 
+</top>
+
+
+<top>
+
+<num> Number: 383
+<title> mental illness drugs
+
+<desc> Description: 
+Identify drugs used in the treatment of mental illness.  
+ 
+<narr> Narrative: 
+A relevant document will include the name of a specific
+or generic type of drug.  Generalities are not relevant.
+
+</top>
+
+
+<top>
+
+<num> Number: 385
+<title> hybrid fuel cars 
+
+<desc> Description: 
+Identify documents that discuss the current status of
+hybrid automobile engines, (i.e., cars fueled by something
+other than gasoline only).
+ 
+<narr> Narrative: 
+A relevant document may include research on non-gasoline 
+powered engines or prototypes that may be fueled by natural 
+gas, methanol, alcohol; cost to the consumer; health benefits 
+derived; and shortcomings in horsepower and passenger comfort.
+
+</top>
+
+
+<top>
+
+<num> Number: 387
+<title> radioactive waste 
+
+<desc> Description: 
+Identify documents that discuss effective and safe ways to 
+permanently handle long-lived radioactive wastes.
+ 
+<narr> Narrative: 
+Documents that discuss incineration, cementation, bitumenization, 
+vitrification, and in underground nuclear explosion are relevant.
+
+</top>
+
