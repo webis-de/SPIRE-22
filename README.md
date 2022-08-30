@@ -1,6 +1,6 @@
 # SPIRE-22
 
-This repository contains the code and the data for our paper (currently under single-blind review at SPIRE'22) on unintended train--test leakage with neural retrieval models.
+This repository contains the code and the data for our SPIRE'22 paper on unintended train--test leakage with neural retrieval models.
 
 We studied the effects of unintended train--test leakage between MS MARCO/ORCAS and Robust04 and two Common Core tracks, identifying that 69% of the Robust04 queries have near-duplicates in MS MARCO / ORCAS (74% of the TREC 2017 Common Core track and 76% of the TREC 2018 Common Core track). We then trained five neural retrieval models on a fixed number of MS MARCO/ORCAS queries that are highly similar to the actual test queries and an increasing number of other queries to study the effects of such leaked instances.
 
